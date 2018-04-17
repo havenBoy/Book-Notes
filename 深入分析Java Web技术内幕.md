@@ -15,4 +15,16 @@ http请求是**无状态的短连接**通信方式，不能一直保持这个链
   浏览器中Ctrl+F5可以请求无缓存的数据，，这个是因为在这种操作的请求头中添加了2个参数，Pragm:no-cache,Control:no-cache<br>
 **DNS域名解析过程**<br>
 1.查看缓存中是否已有解析过的缓存，有的话则使用之前以及解析过的；<br>
-2.查找操作系统中是否有这个域名，windows和Linux下的<br>
+2.查找操作系统缓存中是否有这个域名，windows(C:\Windows\System32\drivers\etc\host)和Linux（etc/name.conf）配置文件中<br>
+3.获取域名服务器,一把是有失效时间的，就近获取，公司的或者是学校 LDNS<br>
+4.如果3没有命中，那么到RootServer域名解析器<br>
+5.根域名服务器会返回给本地域名服务器地址<br>
+6.本地域名服务器向gTLD服务器发送请求<br>
+7.gTLD域名服务器查找并返回<br>
+8.得到目标IP记录，以及TTL<br>
+9.返回域名对应的IP与TTL<br>
+10.解析结果返回给用户，并缓存TTL在本地<br>
+**清除缓存的域名**<br>
+1.域名解析的结果会缓存在1.localDNS 2.用户本地机器 二者的有效时间由TTL控制，其中本地的缓存是可以清除的
+2.windows下ipconfig/flushdns , linux下/etc/init.d/nscd restart  来清除缓存
+3.
