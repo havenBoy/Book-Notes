@@ -5,5 +5,5 @@
 ##### 第二章：运行时数据区域
 
 **运行时数据区域**
-![图片](D:/others/notes/head__2018322.jpg)
+![图片](https://github.com/havenBoy/notes/raw/master/img/1.png)
 
