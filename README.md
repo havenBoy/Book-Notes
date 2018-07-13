@@ -28,3 +28,30 @@
   - 深入理解jvava虚拟机
     * 第二章 [java内存区域与内存溢出](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0--java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA.md)
     * 第二章 [垃圾回收器与内存分配策略](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0--%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E4%B8%8E%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E7%AD%96%E7%95%A5.md)
+    
+  - Java核心技术卷一：基础知识
+ 
+    * 第二章 [Java程序设计环境](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC2%E7%AB%A0-Java%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%8E%AF%E5%A2%83.md)
+    * 第二章 [Java的基本程序设计结构](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC3%E7%AB%A0-Java%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%93%E6%9E%84.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
