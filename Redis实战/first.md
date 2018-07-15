@@ -21,8 +21,8 @@
   - zset : 字符串成员与浮点数分值的有序映射，可以根据数据的分值来获取数据，可以进行增删改操作；
 
 ## 基本Redis操作
-   - [第一部分](https://github.com/havenBoy/java-book-notes/blob/master/img/3.png)
-   - [第二部分](https://github.com/havenBoy/java-book-notes/blob/master/img/4.png)
+   - ![第一部分](https://github.com/havenBoy/java-book-notes/blob/master/img/3.png)
+   - ![第二部分](https://github.com/havenBoy/java-book-notes/blob/master/img/4.png)
 
 ## 总结
   - 内存存储 使得Redis 执行的速度异常快
