@@ -10,6 +10,8 @@
     * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0--%E6%95%B0%E7%BB%84.md)
   - Redis实战
     * 第一章 [Redis入门](https://github.com/havenBoy/notes/blob/master/Redis%E5%AE%9E%E6%88%98/first.md)
+    * 第二章 [使用Redis构建web应用](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/second.md)
+    * 第三章 [Redis命令](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/third.md)
     
   - TCP-IP 协议
     * 第一章 [概述](https://github.com/havenBoy/notes/blob/master/TCP%20IP%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0--%E6%A6%82%E8%BF%B0.md)
