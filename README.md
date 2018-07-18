@@ -2,6 +2,7 @@
 > 随时更新，欢迎大家的批评与指导
   - java编程思想
     * 第一章 [对象导论](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0--%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA.md)
+    * 第一章 [对象导论]()
     * 第五章 [初始化与清理](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0--%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E6%B8%85%E7%90%86.md)
     * 第七章 [复用类](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%83%E7%AB%A0--%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
     * 第八章 [多态](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E5%85%AB%E7%AB%A0--%E5%A4%9A%E6%80%81.md)
