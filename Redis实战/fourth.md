@@ -17,9 +17,22 @@
     - stop-writes-on-bgsave-error on  是否在快照执行操作失败后进行写操作   
     - rdbcompression yes   是否对快照备份文件进行压缩
     - dbfilename dump.rdb  定义快照文件的名称
+  * 如何创建快照
+    - 客户端发送bgsave命令实现文件的备份，服务端会fork一个子进程来实现备份，而主进程用来命令的请求
+    - 客户段也可以进行save命令  执行此命令时客户端发来的命令不会被处理
+    - Redis在执行shutdown命令时，即在关机的时候会执行save的操作
   * 追加文件  经常的追加文件使得恢复文件变得越来越大
     - appendonly yes  是否使用追加文件的策略
     - appendfsnync everysec  (alaways  everysec no)同步到硬盘的频率  即每秒
-    - appendfsnync-on-write no 
-    - auto-aof-rewrite-percetent 100
-    - auto-aof-rewrite-min-size 64m
+    - appendfsnync-on-write no  在同步的时候是否可以进行写操作
+    - auto-aof-rewrite-percetent 100  增长率为100%的时候重写
+    - auto-aof-rewrite-min-size 64m   最少超过64M重写
+  * 需要考虑AOF文件的大小
+    -   为了解决文件过大的问题，使用bgrewriteaof命令，通过删除文件中冗余的命令来实现文件的重写
+  * 根据实际的情况来采取不同的持久化设置，有必要对持久化后的文件进行备份在不同的服务器上
+  * 关于复制
+    - 复制对于数据的完整性是必要的，一般是采用一台主服务器和若干个从服务器，主服务器负责把更新好的数据向从服务器推送，从服务器负责数据的接受和读取命令；
+    - 对于复制选项的相关配置
+      * 当从服务器连接主服务器时，主服务器会执行bgsave的操作，进而把备份文件发送给从服务器
+      * 通过配置slaveof no one 来实现不在复制到从服务器， slaveof host port 来实现向其他服务器的复制
+      * 并不支持主主复制：相互被设置为主服务器的实例会占用大量的资源，并且不会得到正确的数据集
