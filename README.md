@@ -41,7 +41,7 @@
     * 第六章 [接口与内部类](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC6%E7%AB%A0-%E6%8E%A5%E5%8F%A3%E4%B8%8E%E5%86%85%E9%83%A8%E7%B1%BB.md)
     * 第七章 [图形程序设计](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC7%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md)
     * 第八章 [事件处理](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC8%E7%AB%A0-%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86.md)
-
+    * 第十章 [部署应用程序和applet](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC10%E7%AB%A0-%E9%83%A8%E7%BD%B2%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%92%8Capplet.md)
 
 
 
