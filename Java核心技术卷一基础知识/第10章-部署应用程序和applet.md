@@ -1,4 +1,4 @@
-# 第10章 部署应用程序和applet 426-470
+# 第10章 部署应用程序和applet
 	本章内容：
 	* JAR文件
 	* Java Web Start
@@ -235,6 +235,7 @@ Java有可能在浏览器中被系统管理员禁用。此时可以利用alt属�
     返回一个由URL指定的图像对象，这个对象封装一个图像。如果图像不存在，则立即返回null。否则，将启动一个独立的线程来装载图像。
 
 #### 10.3.6 applet上下文
+
 1. applet在浏览器或者applet查看器中运行。applet可以请求浏览器为它提供服务。
 2. 如果想在浏览器之间进行通信，那么需要applet调用getAppletContext方法。这个方法将返回一个实现了AppletContext接口的对象。可以将AppletContext接口的具体实现认为是打开了一条applet与环境浏览器之间的通信道路。
 3. applet间的通信
@@ -246,13 +247,15 @@ applet不能与其他网页上的applet进行通信。
 可以使用showStatus信息在浏览器底部的状态行中显示一个字符串。
 利用showDocument方法，可以请求浏览器显示不同的网页。
 5. showDocument方法
+
 | 目标参数 | 位置 |
-|--------|--------|
+| -------- | -------- |
 | “self”或者none | 在当前框架中显示文档 |
 | ”_parent“ | 在父框架中显示文档 |
 | “_top”| 在最顶层框架中显示文档 |
 | “_blank” | 在新的、未命名的、顶层窗口中显示文档 |
 | 其他字符串 | 在指定名称的框架中显示文档。如果没有相应名称的框架，就打开一个新窗口，并给这个窗口指定名称 |
+
 6. java.applet.Applet 1.2
 	* public AppletContext getAppletContext()
 	获得applet浏览器环境的一个句柄。在大多数浏览中，可以使用这个信息控制运行applet的浏览器。
@@ -266,6 +269,7 @@ applet不能与其他网页上的applet进行通信。
     * void showDocument(URL url)
     * void showDocument(URL url,String target)
     在浏览器的框架中显示一个新网页。第一种形式在当前页中显示新页面。第二种形式用target参数指定目标框架。
+
 
 ## 10.4 应用程序首选项存储
 
@@ -296,11 +300,13 @@ applet不能与其他网页上的applet进行通信。
     返回具有给定键名的系统属性。应用程序必须有访问全部系统属性的权限，否则将抛出安全异常。下列特性总可以得到：java.version、java.vendor、java.vendor.url、java.class.version、os.name、os.version、os.arch、file.separator、path.separator、line.separator、java.specification.version、java.vm.specification.version、java.vm.specification.vendor、java.vm.spacification.name、java.vm.version、java.vm.vendor、java.vm.name。
 
 #### 10.4.2 Preferences API
+
 1. Properties类能够简化读取和保存配合信息的过程。但是，使用属性文件存在下列不足：
 * 配置文件不能存放在用户的主目录中。这是因为某些操作系统（如Windows 9x）没有主目录的概念。
 * 没有标准的为配置文件命名的规则。当用户安装了多个Java应用程序时，会增加配置文件名冲突的可能性。
+
 2. java.util.prefs.Preferences 1.4
-	* Preferences userRoot()
+    * Preferences userRoot()
 	返回调用应用程序的用户首选项的根节点。
     * Preferences systemRoot()
     返回系统范围的首选项的根节点。
