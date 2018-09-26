@@ -1,14 +1,15 @@
 # 读书笔记
 > 随时更新，欢迎大家的批评与指导
   - java编程思想
-    * 第一章 [对象导论](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0--%E5%AF%B9%E8%B1%A1%E5%AF%BC%E8%AE%BA.md)
+    * 第一章 [对象导论](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
     * 第二章 [一切都是对象]()
-    * 第五章 [初始化与清理](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%BA%94%E7%AB%A0--%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E6%B8%85%E7%90%86.md)
-    * 第七章 [复用类](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%83%E7%AB%A0--%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
-    * 第八章 [多态](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E5%85%AB%E7%AB%A0--%E5%A4%9A%E6%80%81.md)
-    * 第九章 [接口](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/9%E7%AC%AC%E4%B9%9D%E7%AB%A0--%E6%8E%A5%E5%8F%A3.md)
-    * 第十一章 [持有对象](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0--%E6%8C%81%E6%9C%89%E5%AF%B9%E8%B1%A1.md)
-    * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E5%8D%81%E5%85%AD%E7%AB%A0--%E6%95%B0%E7%BB%84.md)
+    * 第五章 [初始化与清理](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fifth.md)
+    * 第七章 [复用类](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/seventh.md)
+    * 第八章 [多态](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eighth.md)
+    * 第九章 [接口](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/ninth.md)
+    * 第十一章 [持有对象](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eleventh.md)
+    * 第十三章 [字符串](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/thirdteenth.md)
+    * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixteenth.md)
   - Redis实战
     * 第一章 [Redis入门](https://github.com/havenBoy/notes/blob/master/Redis%E5%AE%9E%E6%88%98/first.md)
     * 第二章 [使用Redis构建web应用](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/second.md)
