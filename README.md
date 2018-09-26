@@ -22,9 +22,9 @@
     * 第二章 [链路层](https://github.com/havenBoy/notes/blob/master/TCP%20IP%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%BA%8C%E7%AB%A0--%E9%93%BE%E8%B7%AF%E5%B1%82.md)
     * 第三章 [网际协议IP](https://github.com/havenBoy/notes/blob/master/TCP%20IP%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%89%E7%AB%A0--%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AEIP.md)
   - 分布式java应用与实践
-    * 第五章 [性能调优]()
-    * 第六章 [构建高可用系统](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E7%AC%AC%E5%85%AD%E7%AB%A0--%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8%E7%9A%84%E7%B3%BB%E7%BB%9F.md)
-    * 第七章 [构建可伸缩系统]()
+    * 第五章 [性能调优](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/fifth.md)
+    * 第六章 [构建高可用系统](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/sixth.md)
+    * 第七章 [构建可伸缩系统](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/seventh.md)
 
   - 高性能MYSQL
     * 第一章 [MYSQL的架构与历史](https://github.com/havenBoy/notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0--MYSQL%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%8E%86%E5%8F%B2.md)
