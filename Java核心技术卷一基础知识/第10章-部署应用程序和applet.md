@@ -1,4 +1,4 @@
-# 第10章 部署应用程序和applet 426-470
+# 第10章 部署应用程序和applet
 	本章内容：
 	* JAR文件
 	* Java Web Start
@@ -10,20 +10,21 @@
 2. pack200是一种较通常的ZIP压缩算法更加有效的压缩类文件的方式。Oracle声称，对类文件的压缩率接近90%。
 3. 可以使用jar工具制作JAR文件（在默认的JDK安装中，位于jdk/bin目录下）。创建一个新的JAR文件应该使用的常见命令格式为`jar cvf JARFileName File1 File2 ...`。
 4. .jar程序选项
-| 选项 | 说明 |
-|--------|--------|
-|c|创建一个新的或者空的存档文件并加入文件。如果指定的文件名是目录，jar程序将会对它们进行递归处理。|
-|C|暂时改变目录，例如`jar cvf JARFileName.jar -C classes *.class`改变classes子目录，以便增加这些类文件|
-|e|在清单文件中创建一个条目|
-|f|将JAR文件名指定为第二个命令行参数。如果没有这个参数，jar命令会将结果写在标准输出上（在创建JAR文件时）或者从标准输入中读取它（在解压或者列出JAR文件内容时）|
-|i|简历索引文件（用于加快对大型归档的查找）|
-|m|将一个清单文件（manifest）添加到JAR文件中。清单是对归档内容和来源的说明。每个归档有一个默认的清单文件。但是，如果想验证归档文件的内容，可以提供自己的清单文件|
-|M|不为条目创建清单文件|
-|t|显示内容表|
-|u|更新一个已有的JAR文件|
-|v|生成详细的输出结果|
-|x|解压文件。如果提供一个或多个文件名，只解压这些文件；否则，解压所有文件|
-|O|存储，不进行ZIP压缩|
+
+    | 选项 | 说明 |
+    | -------- | -------- |
+    | c | 创建一个新的或者空的存档文件并加入文件。如果指定的文件名是目录，jar程序将会对它们进行递归处理。 |
+    | C | 暂时改变目录，例如`jar cvf JARFileName.jar -C classes *.class`改变classes子目录，以便增加这些类文件 |
+    | e | 在清单文件中创建一个条目 |
+    | f | 将JAR文件名指定为第二个命令行参数。如果没有这个参数，jar命令会将结果写在标准输出上（在创建JAR文件时）或者从标准输入中读取它（在解压或者列出JAR文件内容时） |
+    | i | 简历索引文件（用于加快对大型归档的查找） |
+    | m | 将一个清单文件（manifest）添加到JAR文件中。清单是对归档内容和来源的说明。每个归档有一个默认的清单文件。但是，如果想验证归档文件的内容，可以提供自己的清单文件 |
+    | M | 不为条目创建清单文件 |
+    | t | 显示内容表 |
+    | u | 更新一个已有的JAR文件 |
+    | v | 生成详细的输出结果 |
+    | x | 解压文件。如果提供一个或多个文件名，只解压这些文件；否则，解压所有文件 |
+    | O | 存储，不进行ZIP压缩 |
 
 #### 10.1.1 清单文件
 1. 除了类文件、图像和其他资源外，每个JAR文件还包含衣蛾用于描述归档特征的清单文件（manifest）。
@@ -235,6 +236,7 @@ Java有可能在浏览器中被系统管理员禁用。此时可以利用alt属�
     返回一个由URL指定的图像对象，这个对象封装一个图像。如果图像不存在，则立即返回null。否则，将启动一个独立的线程来装载图像。
 
 #### 10.3.6 applet上下文
+
 1. applet在浏览器或者applet查看器中运行。applet可以请求浏览器为它提供服务。
 2. 如果想在浏览器之间进行通信，那么需要applet调用getAppletContext方法。这个方法将返回一个实现了AppletContext接口的对象。可以将AppletContext接口的具体实现认为是打开了一条applet与环境浏览器之间的通信道路。
 3. applet间的通信
@@ -246,26 +248,29 @@ applet不能与其他网页上的applet进行通信。
 可以使用showStatus信息在浏览器底部的状态行中显示一个字符串。
 利用showDocument方法，可以请求浏览器显示不同的网页。
 5. showDocument方法
+
 | 目标参数 | 位置 |
-|--------|--------|
+| -------- | -------- |
 | “self”或者none | 在当前框架中显示文档 |
 | ”_parent“ | 在父框架中显示文档 |
 | “_top”| 在最顶层框架中显示文档 |
 | “_blank” | 在新的、未命名的、顶层窗口中显示文档 |
 | 其他字符串 | 在指定名称的框架中显示文档。如果没有相应名称的框架，就打开一个新窗口，并给这个窗口指定名称 |
+
 6. java.applet.Applet 1.2
 	* public AppletContext getAppletContext()
 	获得applet浏览器环境的一个句柄。在大多数浏览中，可以使用这个信息控制运行applet的浏览器。
     * void showStatus(String msg)
     显示浏览器状态栏中指定的字符串。
 7. java.applet.AppletContext 1.0
-	* Enumration <Applet> getApplets()
+	* Enumration \<Applet\> getApplets()
 	返回在同一个上下文中（也就是在同一个网页中）所有applet的枚举值。
     * Applet getApplet(String name)
     返回当前上下文中给定名称的applet。如果不存在返回null。只能在当前网页中进行查找。
     * void showDocument(URL url)
     * void showDocument(URL url,String target)
     在浏览器的框架中显示一个新网页。第一种形式在当前页中显示新页面。第二种形式用target参数指定目标框架。
+
 
 ## 10.4 应用程序首选项存储
 
@@ -296,11 +301,13 @@ applet不能与其他网页上的applet进行通信。
     返回具有给定键名的系统属性。应用程序必须有访问全部系统属性的权限，否则将抛出安全异常。下列特性总可以得到：java.version、java.vendor、java.vendor.url、java.class.version、os.name、os.version、os.arch、file.separator、path.separator、line.separator、java.specification.version、java.vm.specification.version、java.vm.specification.vendor、java.vm.spacification.name、java.vm.version、java.vm.vendor、java.vm.name。
 
 #### 10.4.2 Preferences API
+
 1. Properties类能够简化读取和保存配合信息的过程。但是，使用属性文件存在下列不足：
 * 配置文件不能存放在用户的主目录中。这是因为某些操作系统（如Windows 9x）没有主目录的概念。
 * 没有标准的为配置文件命名的规则。当用户安装了多个Java应用程序时，会增加配置文件名冲突的可能性。
+
 2. java.util.prefs.Preferences 1.4
-	* Preferences userRoot()
+    * Preferences userRoot()
 	返回调用应用程序的用户首选项的根节点。
     * Preferences systemRoot()
     返回系统范围的首选项的根节点。
