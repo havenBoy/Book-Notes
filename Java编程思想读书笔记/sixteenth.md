@@ -25,7 +25,7 @@
 * 16.6创建测试数据
   - 只能使用同一个值或者引用进行填充，并且可以指定起始结束的位置
   ```java
-  boolean[] a = new boolean[6];<br>
+  boolean[] a = new boolean[6];
   Arrays.fill(a,true);
   ```
 
