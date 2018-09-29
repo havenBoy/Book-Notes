@@ -30,11 +30,12 @@
     * 第一章 [MYSQL的架构与历史](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
     * 第二章 []()
     * 第三章 [服务器性能剖析](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/third.md)
+    * 第四章 [Schema与数据类型优化](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fourth.md)
     * 第六章 [查询性能优化](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixth.md)
   - Java多线程编程核心技术
     * 第一章 [java多线程技术](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/first.md)
-    * 第一章 [对象以及变量的并发访问](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/second.md)
-    * 第一章 [线程间的通信](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/third.md)
+    * 第二章 [对象以及变量的并发访问](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/second.md)
+    * 第三章 [线程间的通信](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/third.md)
 
   - 深入javaWeb技术内幕
     * 第一章 [深入web请求过程](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E7%AC%AC%E4%B8%80%E7%AB%A0--%E6%B7%B1%E5%85%A5web%E8%AF%B7%E6%B1%82%E8%BF%87%E7%A8%8B.md)
