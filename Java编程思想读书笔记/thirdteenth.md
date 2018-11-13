@@ -36,3 +36,6 @@
    | intern() |  | 为每个唯一的字符串序列生成一个且只有一个string引用 |  
  * 格式化输出 
    - printf()  
+   - java.util.formatter 负责所有格式化输出的类
+ * 正则表达式
+   
