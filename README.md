@@ -10,6 +10,7 @@
     * 第十一章 [持有对象](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eleventh.md)
     * 第十三章 [字符串](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/thirdteenth.md)
     * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixteenth.md)
+    * 第十九章 [枚举类型](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/nineteenth.md)
   - Redis实战
     * 第一章 [Redis入门](https://github.com/havenBoy/notes/blob/master/Redis%E5%AE%9E%E6%88%98/first.md)
     * 第二章 [使用Redis构建web应用](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/second.md)
