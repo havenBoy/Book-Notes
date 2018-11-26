@@ -58,6 +58,12 @@
     * 第一章 [了解web及网络基础](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/first.md)
     * 第二章 [简单的HTTP协议](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/second.md)
     * 第三章 [HTTP报文中的HTTP信息](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/third.md)
+
+  - redis设计与实现
+    * 第二章 [简单动态字符串](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/second.md)
+    * 第四章 [字典](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/fourth.md)
+    * 第八章 [对象](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/eighth.md)
+    
     
   - Java核心技术卷一：基础知识
  
