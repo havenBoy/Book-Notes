@@ -7,3 +7,5 @@
   - 报文大致分为报文首部和报文主体
 * 3.2 请求报文及响应报文的结构
   - 
+* 3.3 报文结构示意图
+![图片](https://github.com/havenBoy/notes/raw/master/img/5.jpg)
