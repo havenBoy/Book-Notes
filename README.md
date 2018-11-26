@@ -10,6 +10,7 @@
     * 第十一章 [持有对象](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eleventh.md)
     * 第十三章 [字符串](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/thirdteenth.md)
     * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixteenth.md)
+    * 第十九章 [枚举类型](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/nineteenth.md)
   - Redis实战
     * 第一章 [Redis入门](https://github.com/havenBoy/notes/blob/master/Redis%E5%AE%9E%E6%88%98/first.md)
     * 第二章 [使用Redis构建web应用](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/second.md)
@@ -38,17 +39,17 @@
     * 第三章 [线程间的通信](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/third.md)
 
   - 深入javaWeb技术内幕
-    * 第一章 [深入web请求过程](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
-    * 第二章 [深入web深入分析JAVA I/O 工作机制](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/second.md)
-    * 第三章 [深入web深入分析JAVAWeb中的中文编码问题](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/third.md)
-    * 第四章 [javac编译原理](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fourth.md)
-    * 第五章 [深入class文件结构](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fifth.md)
-    * 第六章 [深入分析classLoader工作机制](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixth.md)
-    * 第七章 [JVM体系结构与工作方式](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/seventh.md)
-    * 第八章 [JVm内存管理](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eighth.md)
-    * 第九章 [servlet工作原理](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/ninth.md)
-    * 第十章 [理解Session与Cookie](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/tenth.md)
-    * 第十三章 [Spring框架的设计理念和设计模式分析](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/thirdteenth.md)
+    * 第一章 [深入web请求过程](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/first.md)
+    * 第二章 [深入web深入分析JAVA I/O 工作机制](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/second.md)
+    * 第三章 [深入web深入分析JAVAWeb中的中文编码问题](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/three.md)
+    * 第四章 [javac编译原理](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/fourth.md)
+    * 第五章 [深入class文件结构](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/fifth.md)
+    * 第六章 [深入分析classLoader工作机制](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/sixth.md)
+    * 第七章 [JVM体系结构与工作方式](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/seven.md)
+    * 第八章 [JVm内存管理](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/eighth.md)
+    * 第九章 [servlet工作原理](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/ninth.md)
+    * 第十章 [理解Session与Cookie](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/tenth.md)
+    * 第十三章 [Spring框架设计理念和设计模式分析](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/thirdteen.md)
 
   - 深入理解jvava虚拟机
     * 第二章 [java内存区域与内存溢出](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/second.md)
@@ -78,6 +79,9 @@
     * 第十一章 [异常、断言、日志与调试](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC11%E7%AB%A0-%E5%BC%82%E5%B8%B8%E3%80%81%E6%96%AD%E8%A8%80%E3%80%81%E6%97%A5%E5%BF%97%E5%92%8C%E8%B0%83%E8%AF%95.md)
 	* 第十二章 [泛型程序设计](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC12%E7%AB%A0-%E6%B3%9B%E5%9E%8B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md)
 	* 第十三章 [集合](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC13%E7%AB%A0-%E9%9B%86%E5%90%88.md)
+	* 第十四章 [多线程](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC14%E7%AB%A0-%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
+
+  - 代码整洁之道
 
 
 
