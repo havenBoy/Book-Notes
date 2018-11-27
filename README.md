@@ -52,8 +52,8 @@
     * 第十三章 [Spring框架设计理念和设计模式分析](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5javaWeb%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95/thirdteen.md)
 
   - 深入理解jvava虚拟机
-    * 第二章 [java内存区域与内存溢出](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/second.md)
-    * 第三章 [垃圾回收器与内存分配策略](https://github.com/havenBoy/notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/third.md)
+    * 第二章 [java内存区域与内存溢出](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA/second.md)
+    * 第三章 [垃圾回收器与内存分配策略](https://github.com/havenBoy/java-book-notes/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvava%E8%99%9A%E6%8B%9F%E6%9C%BA/third.md)
 
   - 图解HTTP
     * 第一章 [了解web及网络基础](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/first.md)
