@@ -60,3 +60,4 @@
   - Etag  
   - location 指明重定向的URI
   - Proxy-Authenticate  代理服务器所需要的认证信息发送给客户端
+  - 
