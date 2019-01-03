@@ -3,42 +3,41 @@
 
 
 
-> - java编程思想
->   * 第一章 [对象导论](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
->   * 第二章 [一切都是对象]()
->   * 第五章 [初始化与清理](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fifth.md)
->   * 第七章 [复用类](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/seventh.md)
->   * 第八章 [多态](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eighth.md)
->   * 第九章 [接口](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/ninth.md)
->   * 第十一章 [持有对象](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eleventh.md)
->   * 第十三章 [字符串](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/thirdteenth.md)
->   * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixteenth.md)
->   * 第十九章 [枚举类型](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/nineteenth.md)
+ - java编程思想
+   * 第一章 [对象导论](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
+   * 第二章 [一切都是对象]()
+   * 第五章 [初始化与清理](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fifth.md)
+   * 第七章 [复用类](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/seventh.md)
+   * 第八章 [多态](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eighth.md)
+   * 第九章 [接口](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/ninth.md)
+   * 第十一章 [持有对象](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/eleventh.md)
+   * 第十三章 [字符串](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/thirdteenth.md)
+   * 第十六章 [数组](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixteenth.md)
+   * 第十九章 [枚举类型](https://github.com/havenBoy/notes/blob/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/nineteenth.md)
 
 
-
-> - Redis实战
->   * 第一章 [Redis入门](https://github.com/havenBoy/notes/blob/master/Redis%E5%AE%9E%E6%88%98/first.md)
->   * 第二章 [使用Redis构建web应用](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/second.md)
->   * 第三章 [Redis命令](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/third.md)
->   * 第四章 [数据安全与性能保障](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/fourth.md)
->   * 第五章 [使用redis构建支持程序](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/fifth.md)
+ - Redis实战
+   * 第一章 [Redis入门](https://github.com/havenBoy/notes/blob/master/Redis%E5%AE%9E%E6%88%98/first.md)
+   * 第二章 [使用Redis构建web应用](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/second.md)
+   * 第三章 [Redis命令](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/third.md)
+   * 第四章 [数据安全与性能保障](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/fourth.md)
+   * 第五章 [使用redis构建支持程序](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/fifth.md)
 
   - TCP-IP 协议
-    * 第一章 [概述](https://github.com/havenBoy/notes/blob/master/TCP%20IP%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
-    * 第二章 [链路层](https://github.com/havenBoy/notes/blob/master/TCP%20IP%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/second.md)
-    * 第三章 [网际协议IP](https://github.com/havenBoy/notes/blob/master/TCP%20IP%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/third.md)
+    * 第一章 [概述](https://github.com/havenBoy/java-book-notes/blob/master/TCP-IP%E5%8D%8F%E8%AE%AE/first.md)
+    * 第二章 [链路层](https://github.com/havenBoy/java-book-notes/blob/master/TCP-IP%E5%8D%8F%E8%AE%AE/second.md)
+    * 第三章 [网际协议IP](https://github.com/havenBoy/java-book-notes/blob/master/TCP-IP%E5%8D%8F%E8%AE%AE/third.md)
   - 分布式java应用与实践
     * 第五章 [性能调优](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/fifth.md)
     * 第六章 [构建高可用系统](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/sixth.md)
     * 第七章 [构建可伸缩系统](https://github.com/havenBoy/notes/blob/master/%E5%88%86%E5%B8%83%E5%BC%8Fjava%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5/seventh.md)
 
   - 高性能MYSQL
-    * 第一章 [MYSQL的架构与历史](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/first.md)
-    * 第二章 [MYSQL基准测试](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/second.md)
-    * 第三章 [服务器性能剖析](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/third.md)
-    * 第四章 [Schema与数据类型优化](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/fourth.md)
-    * 第六章 [查询性能优化](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/sixth.md)
+    * 第一章 [MYSQL的架构与历史](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL/first.md)
+    * 第二章 [MYSQL基准测试](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL/second.md)
+    * 第三章 [服务器性能剖析](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL/third.md)
+    * 第四章 [Schema与数据类型优化](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL/fourth.md)
+    * 第六章 [查询性能优化](https://github.com/havenBoy/java-book-notes/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDMYSQL/sixth.md)
   - Java多线程编程核心技术
     * 第一章 [java多线程技术](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/first.md)
     * 第二章 [对象以及变量的并发访问](https://github.com/havenBoy/java-book-notes/blob/master/java%20muti-thread%20programming/second.md)
