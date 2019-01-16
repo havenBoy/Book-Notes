@@ -23,6 +23,7 @@
    * 第四章 [数据安全与性能保障](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/fourth.md)
    * 第五章 [使用redis构建支持程序](https://github.com/havenBoy/java-book-notes/blob/master/Redis%E5%AE%9E%E6%88%98/fifth.md)
 
+
   - TCP-IP 协议
     * 第一章 [概述](https://github.com/havenBoy/java-book-notes/blob/master/TCP-IP%E5%8D%8F%E8%AE%AE/first.md)
     * 第二章 [链路层](https://github.com/havenBoy/java-book-notes/blob/master/TCP-IP%E5%8D%8F%E8%AE%AE/second.md)
@@ -93,7 +94,10 @@
     * 第十四章 [多线程](https://github.com/havenBoy/java-book-notes/blob/master/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B7%E4%B8%80%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC14%E7%AB%A0-%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
 
   - 代码整洁之道
-
+	* 第一章 [整洁代码](https://github.com/havenBoy/java-book-notes/blob/master/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93/%E7%AC%AC1%E7%AB%A0-%E6%95%B4%E6%B4%81%E4%BB%A3%E7%A0%81.md)
+	* 第二章 [有意义的命名](https://github.com/havenBoy/java-book-notes/blob/master/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93/%E7%AC%AC2%E7%AB%A0-%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E5%91%BD%E5%90%8D.md)
+	* 第三章 [函数](https://github.com/havenBoy/java-book-notes/blob/master/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93/%E7%AC%AC3%E7%AB%A0-%E5%87%BD%E6%95%B0.md)
+	* 第四章 [注释](https://github.com/havenBoy/java-book-notes/blob/master/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93/%E7%AC%AC4%E7%AB%A0-%E6%B3%A8%E9%87%8A.md)
 
 
 
