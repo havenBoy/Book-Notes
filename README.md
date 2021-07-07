@@ -82,7 +82,7 @@
     * 第一章 [简单动态字符串](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/second.md)
 
   - **大数据架构师指南**
-    * 第四章 [Hadoop基础组件](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/fourth.md)
+    * 第四章 [Hadoop基础组件](https://github.com/havenBoy/Book-Notes/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E5%B8%88%E6%8C%87%E5%8D%97/fourth.md)
 
   - **kafka权威指南**
     * 第一章 [简单动态字符串](https://github.com/havenBoy/java-book-notes/blob/master/%E5%9B%BE%E8%A7%A3HTTP/second.md)
